@@ -1,1 +1,3 @@
-hello 
+hello,
+worlds 
+to open file use "start notepad filename"
